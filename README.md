@@ -1,3 +1,6 @@
+
+![INACTIVE BLOG - MOVED](https://github.com/user-attachments/assets/a63739e9-8475-4fb9-baaa-c39f0ef7cfc9)
+
 # 📘 Guia de Comandos Git
 
 > Um repositório dedicado a explicar comandos essenciais do Git, organizado de forma prática e direta.
