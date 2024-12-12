@@ -1,5 +1,8 @@
 
-![INACTIVE BLOG - MOVED](https://github.com/user-attachments/assets/a63739e9-8475-4fb9-baaa-c39f0ef7cfc9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a63739e9-8475-4fb9-baaa-c39f0ef7cfc9" alt="INACTIVE BLOG - MOVED"/>
+</p>
+
 
 # 📘 Guia de Comandos Git
 
